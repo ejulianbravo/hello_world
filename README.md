@@ -7,4 +7,4 @@ I hope this project is succesful.
 
 
 #update_2025
-Updating this readme today. Working on vectors and arrays. Learning how to call LLM functions into R.
+Updating this readme today. Working on vectors and arrays. Learning how to call LLM functions into R. I still don't know Pyhton. 
